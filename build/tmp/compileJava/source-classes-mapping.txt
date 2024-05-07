@@ -1,0 +1,16 @@
+softwaredesign/plugins/addition.java
+ softwaredesign.plugins.addition
+softwaredesign/IO.java
+ softwaredesign.IO
+softwaredesign/PluginPort.java
+ softwaredesign.PluginPort
+softwaredesign/plugins/subtraction.java
+ softwaredesign.plugins.subtraction
+softwaredesign/plugins/sin.java
+ softwaredesign.plugins.sin
+softwaredesign/plugins/max.java
+ softwaredesign.plugins.max
+softwaredesign/Calculator.java
+ softwaredesign.Calculator
+softwaredesign/Plugin.java
+ softwaredesign.Plugin
